@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<campushub exported_at="2026-08-27T22:53:12+02:00">
+  <event id="1">
+    <title>Annual Tech Hackathon</title>
+    <type>competition</type>
+    <description>A 24-hour coding challenge for all students.</description>
+    <date>2026-09-15 09:00:00</date>
+    <location>Main Hall</location>
+    <registrations count="0"/>
+  </event>
+  <event id="2">
+    <title>Web Development Workshop</title>
+    <type>workshop</type>
+    <description>Learn the basics of PHP and MySQL.</description>
+    <date>2026-09-20 14:00:00</date>
+    <location>Lab 3</location>
+    <registrations count="0"/>
+  </event>
+</campushub>
